@@ -1,5 +1,6 @@
 # Metas Diárias
 <br />
+
 ### MVC
 
 *Estudar pelo menos 20 minuntos sobre.
