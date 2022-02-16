@@ -1,16 +1,16 @@
 # Metas Diárias
-/
-/
-### MVC
 <br />
+### MVC
+
 *Estudar pelo menos 20 minuntos sobre.
 <br />
 <br />
+
 ### VB.NET
+
 <br />
-*Estudar pelo menos 20 minuntos sobre
-<br />
-*/>Dia 1 Aprendi:*<br />
+*Estudar pelo menos 20 minuntos sobre <br />
+*->Dia 1 Aprendi:*<br />
 ->Como criar um novo projeto do tipo Visual Basic no Visual Studio<br />
 ->Os componentes Forms e Button<br />
 ->A função para geração de uma caixa de mensagem<br />
@@ -22,10 +22,13 @@
 ->Que a conversão entre tipos, nas operações matemáticas, são implícitas<br />
 ->Como funciona o componente TextBox<br />
 <br />
+
 ### Desenvolvimento WEB
+
 <br />
--*Escolher linguagem
+*Escolher linguagem
 <br />
+
 ### Aprender sobre MarkDown
 
 
