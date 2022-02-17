@@ -20,7 +20,6 @@
 > A diferença entre variáveis Integer, Double, Decimal, Long, Short e SByte<br />
 > Que a conversão entre tipos, nas operações matemáticas, são implícitas<br />
 > Como funciona o componente TextBox<br />
-<br />
 * Dia 2 Aprendi: <br />
 > Como manipulamos textos <br />
 > O conceito de variável caractere <br />
